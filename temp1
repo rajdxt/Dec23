@@ -1,0 +1,5 @@
+echo " To add two number"
+a=10
+b=20
+c=`expr $a + $b`
+expr "Sum is $c"
